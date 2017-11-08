@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  participant: one
+  column: one
+  state: MyString
+  body: MyText
+
+two:
+  participant: two
+  column: two
+  state: MyString
+  body: MyText
